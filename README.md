@@ -2,7 +2,7 @@
 
 Ce projet vise à analyser la qualité de l'air au Togo à l'aide de **données fictives**. Il utilise des outils d'analyse de données et de visualisation pour explorer les tendances des polluants atmosphériques, identifier les régions les plus touchées et examiner les corrélations entre différents indicateurs environnementaux.
 
-⚠️ **Note importante** : Les données utilisées dans ce projet sont fictives et ont été générées uniquement à des fins de démonstration. Si vous disposez de **données réelles et fiables**, je serais ravi(e) de collaborer pour enrichir ce projet avec des analyses basées sur des données authentiques.
+⚠️ **Note importante** : Les données utilisées dans ce projet sont fictives et ont été générées uniquement à des fins de démonstration. Si vous disposez de **données réelles et fiables**, je serais ravi de collaborer pour enrichir ce projet avec des analyses basées sur des données authentiques.
 
 ---
 
